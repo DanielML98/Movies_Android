@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="login">Please sign in ➡️🟩</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="reminder">Remember your password must contain at least six characters and one digit</string>
+    <string name="sign_in">Sign In</string>
+</resources>
