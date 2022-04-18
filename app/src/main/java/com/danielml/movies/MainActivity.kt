@@ -19,8 +19,4 @@ class MainActivity : AppCompatActivity() {
     val navController = navHostFragment.navController
     bottomNavigationView.setupWithNavController(navController)
   }
-
-  fun signInTapped(view: View) {
-    Toast.makeText(this, "You Pressed sign in", Toast.LENGTH_SHORT).show()
-  }
 }
